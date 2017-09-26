@@ -1,0 +1,14 @@
+#Standard Scheme pc02.c
+#include <stdio.h>
+
+main()
+{
+
+	Printf("\n this is an a scheme");
+	if(G.cover == 1)
+		brkdown("Base Rate", '=', 999.00);
+	else 
+		brkdown("Base Rate", '=', 500.00);
+
+	return (PASS);
+}

@@ -1,0 +1,12 @@
+#Standard Scheme pc01.c
+#include <stdio.h>
+
+main()
+{
+
+	Printf("\n this is an a scheme");
+
+	brkdown("Base Rate", '=', 100.00);
+
+	return (PASS);
+}
